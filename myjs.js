@@ -5,8 +5,5 @@ alert('期末課題です');
 alert('よろしくお願いします');
 
 
-<script>
-  
-  function clickEvent() {alert('自主制作'); alert('アニメーション・画像です');}
 
-  </script>
+alert('自主制作');  alert('アニメーション・画像があります');　alert('そちらもご覧ください'); 
