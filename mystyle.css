@@ -2,6 +2,6 @@ h1{color:#5f9ea0}
 
 p{color:#ff8c00}
 
-h1, td{border:ridge thick black;}
+h1{border:ridge thick black;}
 
-p, td{border:solid thick black;}
+p{border:solid thick black;}
