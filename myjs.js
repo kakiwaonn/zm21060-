@@ -1,4 +1,4 @@
-alert('Hello');
+alert('こんにちは');
 
 alert('期末課題です');
 
